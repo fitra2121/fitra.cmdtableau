@@ -3,3 +3,4 @@ command tableau
 - Backup written to '/var/opt/tableau_server/data/tableau/files/backup/prod-backup.tsbak'
 - mv //pindah
 - cp //copy
+- https://locallhost:8850  //port link tableau
