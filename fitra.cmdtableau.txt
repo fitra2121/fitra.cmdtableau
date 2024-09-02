@@ -1,0 +1,5 @@
+command tableau
+- Backup Tableau "tsm maintenance backup -f backup_02092024"
+- Backup written to '/var/opt/tableau_server/data/tableau/files/backup/prod-backup.tsbak'
+- mv //pindah
+- cp //copy
